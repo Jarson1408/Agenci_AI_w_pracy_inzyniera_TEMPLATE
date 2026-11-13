@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# Project-specific Outlook config and synced emails (keep private data out of Git)
+scripts/sync_outlook_config.json
+RESOURCES/emails/*
+!RESOURCES/emails/.gitkeep
+/emails/
+**/.sync_index.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+  "account": "",
+  "inbox_subfolder": "NAZWA_FOLDERU_PROJEKTU",
+  "sent_keywords": [
+    "TAG_PROJEKTU",
+    "KLIENT"
+  ],
+  "target_dir": "RESOURCES/emails",
+  "since": "",
+  "thread_match": true
+}
